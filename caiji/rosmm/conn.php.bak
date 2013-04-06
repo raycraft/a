@@ -1,0 +1,9 @@
+<?php
+  /*
+  author?? www.php100.com ????????? 84??
+  */
+  mysql_connect("localhost","root","123456",true);
+  mysql_select_db("caiji_rosmm");
+  mysql_query("set names 'UTF8'");
+
+?>
